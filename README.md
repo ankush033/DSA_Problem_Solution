@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
