@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2104-sum-of-subarray-ranges) |
+| [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0409-longest-palindrome) |
+| [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
