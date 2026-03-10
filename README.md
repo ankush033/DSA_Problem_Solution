@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0409-longest-palindrome) |
+| [0541-reverse-string-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
