@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0239-sliding-window-maximum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0409-longest-palindrome) |
 | [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
 ## String
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -108,5 +111,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
