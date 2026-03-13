@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0409-longest-palindrome) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0392-is-subsequence) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0792-number-of-matching-subsequences](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0792-number-of-matching-subsequences) |
 ## Bucket Sort
