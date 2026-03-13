@@ -4,19 +4,16 @@ class Solution {
         int i=0;
         int j=0;
         while(i<word1.length() || j<word2.length()){
-            if(i<word1.length() && j<word2.length()){
+           
+         if(i<word1.length()){
             sb.append(word1.charAt(i));
+            i++;
+        }if(j<word2.length()){
             sb.append(word2.charAt(j));
+            j++;
+        }
         
-
-        }
-        else if(i<word1.length()){
-            sb.append(word1.charAt(i));
-        }else if(j<word2.length()){
-            sb.append(word2.charAt(j));
-        }
-        i++;
-        j++;
+        
         }
 
         return sb.toString();
