@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
