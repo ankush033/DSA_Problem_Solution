@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0622-design-circular-queue) |
+| [0682-baseball-game](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
 | [0792-number-of-matching-subsequences](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0792-number-of-matching-subsequences) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0844-backspace-string-compare) |
 ## Queue
