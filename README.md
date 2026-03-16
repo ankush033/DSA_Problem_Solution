@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0739-daily-temperatures) |
 | [0792-number-of-matching-subsequences](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0792-number-of-matching-subsequences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2104-sum-of-subarray-ranges) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2104-sum-of-subarray-ranges) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
