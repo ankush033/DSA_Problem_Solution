@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0383-ransom-note) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0383-ransom-note) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
