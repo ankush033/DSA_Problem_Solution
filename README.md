@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
+| [3477-fruits-into-baskets-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0844-backspace-string-compare) |
+| [3477-fruits-into-baskets-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0792-number-of-matching-subsequences) |
+| [3477-fruits-into-baskets-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -260,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
