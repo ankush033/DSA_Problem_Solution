@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
