@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1200-minimum-absolute-difference](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0792-number-of-matching-subsequences) |
 | [0904-fruit-into-baskets](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [2404-most-frequent-even-element](https://github.com/ankush033/DSA_Problem_Solution/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
