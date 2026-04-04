@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0389-find-the-difference) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0389-find-the-difference) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0643-maximum-average-subarray-i) |
