@@ -17,9 +17,7 @@ class Solution {
         if(minlen==Integer.MAX_VALUE) {
             return 0 ;
         }
-        else{
-            return minlen;
-        }
+        return minlen;
       
     }
 }
