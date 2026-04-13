@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/3477-fruits-into-baskets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
