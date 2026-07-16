@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0389-find-the-difference) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
