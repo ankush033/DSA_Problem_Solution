@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0085-maximal-rectangle) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0217-contains-duplicate) |
