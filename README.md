@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0217-contains-duplicate) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0125-valid-palindrome) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0012-integer-to-roman) |
 | [0523-continuous-subarray-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
