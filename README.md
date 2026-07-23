@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0217-contains-duplicate) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
