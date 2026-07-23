@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0383-ransom-note) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0344-reverse-string) |
