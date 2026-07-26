@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0460-lfu-cache](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0622-design-circular-queue) |
 ## Math
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
