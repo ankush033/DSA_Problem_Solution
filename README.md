@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankush033/DSA_Problem_Solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0494-target-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
