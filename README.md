@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0494-target-sum) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0494-target-sum) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -499,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0070-climbing-stairs) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ankush033/DSA_Problem_Solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
